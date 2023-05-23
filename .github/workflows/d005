@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio</title>
+</head>
+<body>
+    <h1>Minhas redes sociais</h1>
+    <h2>Quien soy?</h2>
+    <img src="eu.jpeg" alt="eu">
+
+<p>Hola, me llamo Stefany, tengo 21 años y soy estudante.Em 2024 iré para Argentina estudiar en la faculdad UBA el curso de medicina.</p>
+    <h2>Acá estan mís redes sociales para contacto</h2>
+   <ul>
+    <li><img src="icone-instagram.png" alt="icone-instagram"><a href="https://instagram.com/stefany_luisa22"target="_blank" rel="external">@Ste_luisa22</a></li>
+    <br>
+        <li><img src="icone-facebook.png" alt="icone-facebook"><a href="https://www.facebook.com/stefanyluisa.mendes.7?mibextid=ZbWKwL"target="_blank" rel="external">@Stefany Luisa Mendes</a></li>
+    </br>
+    <br>
+        <li><img src="icone-twitter.png" alt="icone-twitter"><a href="https://twitter.com/St3Rfodasse"target="_blank" rel="external">@St3Rfodasse</a></li>
+    </br>
+   </ul>
+</body>
+</html>
